@@ -48,7 +48,7 @@ usage()
 }
 
 mcbranch="main"
-mcfork="illinois-ceesd"
+mcfork="astro-friedel"
 mcprefix=$(pwd)
 # {{{ Default conda location
 
